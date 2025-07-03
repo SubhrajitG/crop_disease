@@ -1,10 +1,8 @@
-# Plant-Disease-Classification
+# Plant-Disease-Classification - AI-Powered Agricultural Platform
 
-# 🌾 Crop Care - AI-Powered Agricultural Platform
+Plant-Disease-Classification is a next-generation web platform designed to empower farmers, agronomists, and agricultural professionals with actionable AI insights. Our mission is to make advanced crop management accessible, data-driven, and easy for everyone—no technical expertise required.
 
-Crop Care is a next-generation web platform designed to empower farmers, agronomists, and agricultural professionals with actionable AI insights. Our mission is to make advanced crop management accessible, data-driven, and easy for everyone—no technical expertise required.
-
-With Crop Care, you can:
+With Plant-Disease-Classification, you can:
 - **Diagnose crop diseases instantly** by uploading a photo of your crop leaf. Get not just a prediction, but also detailed, step-by-step treatment and prevention strategies tailored to your crop.
 - **Receive personalized crop recommendations** based on your local conditions, helping you maximize yield and sustainability.
 - **Access real-time weather forecasts** to plan your farming activities and reduce risk.
